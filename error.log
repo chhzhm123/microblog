@@ -1,0 +1,24 @@
+[Sun Sep 22 2013 21:39:38 GMT+0800 (CST)] /
+Error: An error for test purposes.
+    at /Users/JianLi/Desktop/Project/NodeJs/microblog/routes/index.js:6:9
+    at callbacks (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:164:37)
+    at param (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:138:11)
+    at pass (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:33:10)
+    at next (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at Object.app.use.meta [as handle] (/Users/JianLi/Desktop/Project/NodeJs/microblog/app.js:47:4)
+    at next (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at next (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/node_modules/connect/lib/middleware/session.js:312:9)
+[Mon Sep 23 2013 09:04:47 GMT+0800 (CST)] /
+Error: An error for test purposes.
+    at /Users/JianLi/Desktop/Project/NodeJs/microblog/routes/index.js:6:9
+    at callbacks (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:164:37)
+    at param (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:138:11)
+    at pass (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/lib/router/index.js:33:10)
+    at next (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at Object.app.use.meta [as handle] (/Users/JianLi/Desktop/Project/NodeJs/microblog/app.js:44:4)
+    at next (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at Object.session [as handle] (/Users/JianLi/Desktop/Project/NodeJs/microblog/node_modules/express/node_modules/connect/lib/middleware/session.js:301:7)
